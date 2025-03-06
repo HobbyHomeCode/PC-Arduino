@@ -1,0 +1,1 @@
+Dieses Arduino-basierte Projekt simuliert das Drücken des Power-Knopfes eines PCs mithilfe eines 4x4 Keypads. Bei Eingabe eines bestimmten Codes (z. B. "123#") wird ein Signal an den Power-Pin des Mainboards gesendet, um den PC zu starten. Das LCD-Display zeigt die aktuelle Eingabe und den Status des Systems an, während eine Taste zur Eingabeblöschung verfügbar ist
